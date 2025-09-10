@@ -21,6 +21,3 @@ Validating artifacts
 ✅ Checked if VM extention resource exists - OK.
 ✅ Checked the VM extention type - OK.
 ✅ Checked the VM extention script URI - OK.
-✅ Checked if the web application is running - OK
-
-🥳 Congratulations! All tests passed!
